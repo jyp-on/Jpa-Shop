@@ -1,4 +1,4 @@
-# inflearn-spring-boot-exam
+# inflearn-spring-boot(with Jpa)
 
 ## 테이블 설계
 ![테이블 설계](https://user-images.githubusercontent.com/52206904/156893740-190aba3a-07f3-4cd8-8c06-898a7dbaac3e.png)
